@@ -29,7 +29,7 @@ MLMC uses older Versions of Torch and HF Transformers, so an own (virtual) envir
 To install MLMC use:
 
 ```bash
-pip install git+https://git.informatik.uni-leipzig.de/asv-ml/mlmc
+pip install git+https://github.com/JaBorst/mlmc
 ```
 Additionaly the Hugginface Datasets library is need which can be installed via. We used version 2.14.4:
 
